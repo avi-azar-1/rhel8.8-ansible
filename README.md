@@ -7,7 +7,7 @@ unzip directory and copy do destination server
 
 **on the server run:**
 ```bash
-cd <path>/ansible_rhel8_rpms
+cd <path>/rhel8.8-ansible-main
 chmod 777 install.sh
 ./install.sh 
 ```
