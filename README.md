@@ -12,4 +12,4 @@ cd <path>/rhel8.8-ansible-main
 chmod 777 install.sh
 ./install.sh 
 ```
-you can then use ansibe, ansible-playbook etc.
+you can then use ansible, ansible-playbook etc.
