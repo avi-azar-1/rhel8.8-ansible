@@ -1,6 +1,9 @@
 # rhel8.8-ansible
-all required rpms to install ansible ver 2.12 on an offline server running rhel ver 8.8
-plus all general collections and packages to run most playbooks
+contains an easy install for ansible ver 2.12 on an offline server running rhel ver 8.8
+
+**contains:**
+-all required rpms
+-all general collections and packages to run most playbooks
 
 **how to:**
 unzip directory and copy do destination server
