@@ -3,9 +3,9 @@ contains an easy install for ansible ver 2.12 on an offline server running rhel 
 
 **contains:**
 
--all required rpms
+* all required rpms
 
--all general collections and packages to run most playbooks
+* all general collections and packages to run most playbooks
 
 **how to:**
 unzip directory and copy do destination server
